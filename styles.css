@@ -113,3 +113,14 @@ ul{
     opacity: .8;
     font-size: .8rem;
 }
+
+/*@media (max-width: 650px){    
+    #bottom-left-section, #bottom-right-section, #card{
+       width: 100%; 
+       height: auto;
+    }
+}*/
+
+@media (min-width: 576px){
+    
+}
